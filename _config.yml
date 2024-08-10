@@ -1,3 +1,24 @@
-theme: jekyll-theme-minimal
+# _config.yml
+
 title: Alper Kocatas - Home
-description: Bookmark this to keep an eye on my project updates!
+description: A simple website hosted on GitHub Pages
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+
+# Exclude these files and directories from the site
+exclude:
+  - README.md
+
+# Set the markdown processor
+# markdown: kramdown
+
+# Include these plugins
+plugins:
+  - jekyll-feed
+
+# Set the theme for the site (choose a theme supported by GitHub Pages)
+theme: jekyll-theme-minimal
+
+# Social media usernames (optional)
+twitter_username: kocatasTolga
+github_username: alperkocatas
