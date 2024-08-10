@@ -22,3 +22,5 @@ theme: jekyll-theme-minimal
 # Social media usernames (optional)
 twitter_username: kocatasTolga
 github_username: alperkocatas
+
+gem "github-pages", group: :jekyll_plugins
