@@ -10,7 +10,7 @@ exclude:
   - README.md
 
 # Set the markdown processor
-# markdown: kramdown
+markdown: kramdown
 
 # Include these plugins
 plugins:
